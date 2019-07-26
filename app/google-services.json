@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "353111420391",
+    "firebase_url": "https://fir-trial-aecd1.firebaseio.com",
+    "project_id": "fir-trial-aecd1",
+    "storage_bucket": "fir-trial-aecd1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353111420391:android:ce6426a49bb9072d",
+        "android_client_info": {
+          "package_name": "com.dalwadibrothers.kunal.firebaseexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "353111420391-ala5dnnli7i3kb9btklh0ouqfa5e50pm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5_HT5DW79xU0poil_WEOQiCyZEZzoguQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
